@@ -1,0 +1,80 @@
+body {
+  background-color:black;
+  color:gold;
+}
+
+.imagen {
+  margin-left:410px;
+}
+ 
+.titulo {
+  text-align: center;
+}
+
+.titulo2 {
+  
+  border-style:solid;
+   font-weight:bold;
+  border-bottom-left-radius:10px;
+        border-top-right-radius:10px;
+  width:23%;
+  border-color:gray;
+  padding:3px;
+}
+
+.titulo3 {
+  border-style:solid;
+   font-weight:bold;
+  border-bottom-left-radius:10px;
+        border-top-right-radius:10px;
+  width:9%;
+  border-color:gray;
+  padding:3px;
+}
+
+.titulo4 {
+  border-style:solid;
+   font-weight:bold;
+  border-bottom-left-radius:10px;
+        border-top-right-radius:10px;
+  width:14%;
+  border-color:gray;
+  padding:3px;
+}
+
+.titulo5 {
+  border-style:solid;
+   font-weight:bold;
+  border-bottom-left-radius:10px;
+        border-top-right-radius:10px;
+  width:12%;
+  border-color:gray;
+  padding:3px;
+}
+
+.titulo6 {
+  border-style:solid;
+  border-radius:50px;
+  width:5%;
+  border-right:solid gray;
+  border-bottom:solid gray;
+  border-left:solid brown;
+  border-top:solid brown;
+  padding:3px;
+}
+
+.titulo7 {
+  border-style:solid;
+   font-weight:bold;
+  border-bottom-left-radius:10px;
+        border-top-right-radius:10px;
+  width:14%;
+  border-color:gray;
+  padding:3px;
+}
+
+.galería {
+  font-size:30px;
+  color:lime;
+  margin-left:20%;
+}
